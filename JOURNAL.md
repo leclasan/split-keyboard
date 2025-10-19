@@ -7,16 +7,17 @@
 -->
 
 This is my journal of the design and building process of **Split Keyboard**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/577).
+You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/727).
 
 
-## 10/17/2025 - Initial Entry  
+## 10/19/2025 - Initial Entry  
 
-It's the first time I'm doing this so I will follow the guide for doing a split keyboard. So the idea I intend doing is something like this 
+It's the first time I'm doing this so I will follow the guide for doing a split keyboard. So the idea I intend doing is something like this
+
+![keyboard.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzI0NywicHVyIjoiYmxvYl9pZCJ9fQ==--2dc40969f0f82ae9e2bb3a50862dca210dd5f8f6/keyboard.jpg)
+
+I hope this isn't too difficult because this is the first time time I'm doing this. If you want to check the keyboard it's called defy keyboard
 
 
-![keyboard.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcxMywicHVyIjoiYmxvYl9pZCJ9fQ==--c4f3dbab497fc1847c52944d51e6be8475618cce/keyboard.jpg)
-
-
-I hope this isn't too difficult because this is the first time time I'm doing this. If you want to check the keyboard it's called defy keyboard  
+  
 
